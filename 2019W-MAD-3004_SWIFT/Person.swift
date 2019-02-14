@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Person.swift
 //  2019W-MAD-3004_SWIFT
 //
 //  Created by MacStudent on 2019-02-14.
@@ -7,11 +7,7 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-// Amritpal singh
-
-//Maninder Singh Tuli
-
-
-
+class person
+{
+    
+}
